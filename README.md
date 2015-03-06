@@ -1,4 +1,4 @@
-# AtlysMMP Android Video Player
+# <a href="http://www.atlysmmp.com">AtlysMMP</a> Android Video Player
 Give your Android viewers a comfortable method to start watching your live video feed. 
 This Android app requires android 3.0+ (Honeycomb) 
 
